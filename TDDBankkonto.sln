@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDBankkonto", "TDDBankkonto\TDDBankkonto.csproj", "{06D700FB-89D2-442F-B689-EE19D48FEBC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDBankkontoTests", "TDDBankkontoTests\TDDBankkontoTests.csproj", "{77DF400D-619B-4B2C-950F-5A1A7041A3CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06D700FB-89D2-442F-B689-EE19D48FEBC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06D700FB-89D2-442F-B689-EE19D48FEBC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06D700FB-89D2-442F-B689-EE19D48FEBC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06D700FB-89D2-442F-B689-EE19D48FEBC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77DF400D-619B-4B2C-950F-5A1A7041A3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DF400D-619B-4B2C-950F-5A1A7041A3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DF400D-619B-4B2C-950F-5A1A7041A3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DF400D-619B-4B2C-950F-5A1A7041A3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EBCD0DF-4052-4580-9EE2-FCA148C4639A}
+	EndGlobalSection
+EndGlobal

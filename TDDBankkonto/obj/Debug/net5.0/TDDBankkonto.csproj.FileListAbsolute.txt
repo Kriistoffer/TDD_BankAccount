@@ -1,0 +1,12 @@
+C:\Users\KristofferJohansson\Documents\Programmering\C#\TDDBankkonto\TDDBankkonto\bin\Debug\net5.0\TDDBankkonto.deps.json
+C:\Users\KristofferJohansson\Documents\Programmering\C#\TDDBankkonto\TDDBankkonto\bin\Debug\net5.0\TDDBankkonto.dll
+C:\Users\KristofferJohansson\Documents\Programmering\C#\TDDBankkonto\TDDBankkonto\bin\Debug\net5.0\ref\TDDBankkonto.dll
+C:\Users\KristofferJohansson\Documents\Programmering\C#\TDDBankkonto\TDDBankkonto\bin\Debug\net5.0\TDDBankkonto.pdb
+C:\Users\KristofferJohansson\Documents\Programmering\C#\TDDBankkonto\TDDBankkonto\obj\Debug\net5.0\TDDBankkonto.csproj.AssemblyReference.cache
+C:\Users\KristofferJohansson\Documents\Programmering\C#\TDDBankkonto\TDDBankkonto\obj\Debug\net5.0\TDDBankkonto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KristofferJohansson\Documents\Programmering\C#\TDDBankkonto\TDDBankkonto\obj\Debug\net5.0\TDDBankkonto.AssemblyInfoInputs.cache
+C:\Users\KristofferJohansson\Documents\Programmering\C#\TDDBankkonto\TDDBankkonto\obj\Debug\net5.0\TDDBankkonto.AssemblyInfo.cs
+C:\Users\KristofferJohansson\Documents\Programmering\C#\TDDBankkonto\TDDBankkonto\obj\Debug\net5.0\TDDBankkonto.csproj.CoreCompileInputs.cache
+C:\Users\KristofferJohansson\Documents\Programmering\C#\TDDBankkonto\TDDBankkonto\obj\Debug\net5.0\TDDBankkonto.dll
+C:\Users\KristofferJohansson\Documents\Programmering\C#\TDDBankkonto\TDDBankkonto\obj\Debug\net5.0\ref\TDDBankkonto.dll
+C:\Users\KristofferJohansson\Documents\Programmering\C#\TDDBankkonto\TDDBankkonto\obj\Debug\net5.0\TDDBankkonto.pdb
