@@ -96,4 +96,3 @@ C:\Users\KristofferJohansson\Documents\Programmering\C#\TDDBankkonto\TDDBankkont
 C:\Users\KristofferJohansson\Documents\Programmering\C#\TDDBankkonto\TDDBankkontoTests\obj\Debug\.netcoreapp,version=v5.0\ref\TDDBankkontoTests.dll
 C:\Users\KristofferJohansson\Documents\Programmering\C#\TDDBankkonto\TDDBankkontoTests\obj\Debug\.netcoreapp,version=v5.0\TDDBankkontoTests.pdb
 C:\Users\KristofferJohansson\Documents\Programmering\C#\TDDBankkonto\TDDBankkontoTests\obj\Debug\.netcoreapp,version=v5.0\TDDBankkontoTests.genruntimeconfig.cache
-C:\Users\KristofferJohansson\Documents\Programmering\C#\TDDBankkonto\TDDBankkontoTests\obj\Debug\.netcoreapp,version=v5.0\TDDBankkontoTests.csproj.CopyComplete

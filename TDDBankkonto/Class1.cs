@@ -67,7 +67,6 @@ namespace TDDBankkonto
             {
                 AllowedSwishAmount -= SendAmount;
             }
-
         }
     }
 }

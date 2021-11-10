@@ -79,11 +79,15 @@ namespace TDDBankkonto.Tests
         }
 
         [TestMethod()]
-        [DataRow(100, 200, true)]
-        public void MakeSwishPaymentTest(double paymentAmount, double allowedAmount, bool expected)
+        [DataRow(100, 200, 100)]
+        [DataRow(1000, 1500, 500)]
+        public void MakeSwishPaymentTest(double paymentAmount, double allowedAmount, double expected)
         {
             var BankAccount = new BankAccount();
-            BankAccount.MakeSwishPayment();
+            BankAccount.AllowedSwishAmount = allowedAmount;
+            BankAccount.MakeSwishPayment(paymentAmount);
+
+            Assert.AreEqual(BankAccount.AllowedSwishAmount, expected);
         }
     }
 }
